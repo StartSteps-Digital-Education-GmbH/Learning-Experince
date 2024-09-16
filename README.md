@@ -1,7 +1,7 @@
 
 # Course Materials Overview for TypeScript Fullstack Development
 
-Welcome to the Comprehensive Full-Stack Development with TypeScript: A Backend Specialization Journey! This document outlines how the course materials are developed and delivered to provide you with a comprehensive learning experience. Our approach combines various elements to ensure you gain a well-rounded understanding of the subject matter.
+The Comprehensive Full-Stack Development with TypeScript: A Backend Specialization Journey! This document outlines how the course materials are developed and delivered to provide you with a comprehensive learning experience. Our approach combines various elements to ensure you gain a well-rounded understanding of the subject matter.
 
 ## Learning Materials
 
@@ -49,7 +49,7 @@ As a student, your active participation is crucial for your learning journey. We
 
 - **Safwan**: Available in the afternoon to answer any questions for better understanding, live code the fullstack project, provide code reviews, and create algorithmic challenges for practice.
 
-We look forward to an engaging and productive learning experience together!
+---
 
 
 # The Role of Slides in an Industrial Practical Course: Why They Are Not a Substitute for a Study Book
@@ -65,4 +65,5 @@ While slides are a valuable tool in the learning process, they are not designed 
 
 5. **Encouraging Active Learning**: Relying solely on slides can lead to passive learning. This course encourages active engagement through discussions, questions, and hands-on practice, which are essential for mastering the skills needed in a practical, industrial setting.
 
+### Summary
 In summary, while slides are an effective tool for summarizing and presenting information, they should be used in conjunction with other resources to provide a well-rounded and practical learning experience in TypeScript fullstack development
