@@ -1,7 +1,7 @@
 
 # Course Materials Overview for TypeScript Fullstack Development
 
-The Comprehensive Full-Stack Development with TypeScript: A Backend Specialization Journey! This document outlines how the course materials are developed and delivered to provide you with a comprehensive learning experience. Our approach combines various elements to ensure you gain a well-rounded understanding of the subject matter.
+A Comprehensive Full-Stack Development with TypeScript: A Backend Specialization. This document outlines how the course materials are developed and delivered to provide you with a comprehensive learning experience. Our approach combines various elements to ensure you gain a well-rounded understanding of the subject matter.
 
 ## Learning Materials
 
