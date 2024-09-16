@@ -53,6 +53,7 @@ As a student, your active participation is crucial for your learning journey. We
 
 
 # The Role of Slides in an Industrial Practical Course: Why They Are Not a Substitute for a Study Book
+
 While slides are a valuable tool in the learning process, they are not designed to serve as a comprehensive study book for several reasons, particularly in the context of an industrial practical course like TypeScript fullstack development:
 
 1. **Conciseness Over Depth**: Slides are meant to provide concise overviews and highlight key concepts, which can lead to a lack of in-depth explanations. A study book typically offers detailed discussions, examples, and context that are essential for a thorough understanding of complex topics.
@@ -65,5 +66,9 @@ While slides are a valuable tool in the learning process, they are not designed 
 
 5. **Encouraging Active Learning**: Relying solely on slides can lead to passive learning. This course encourages active engagement through discussions, questions, and hands-on practice, which are essential for mastering the skills needed in a practical, industrial setting.
 
+Despite the limitations of slides, the combination of live coding examples, well-structured README files, links to official documentation, and the fullstack project will comprehensively address your learning needs. The presence of instructors will also ensure that all your questions are answered, providing clarity on complex topics.
+
+It is crucial to familiarize yourself with official documentation, as it will be an essential resource throughout your career as a developer. Technical terms and concepts that may seem challenging now will be explained by your instructors, ensuring you grasp their significance and application. This foundational understanding will be invaluable as you progress in your development journey.
+
 ### Summary
-In summary, while slides are an effective tool for summarizing and presenting information, they should be used in conjunction with other resources to provide a well-rounded and practical learning experience in TypeScript fullstack development
+In summary, while slides are an effective tool for summarizing and presenting information, they should be used in conjunction with other resources to provide a well-rounded and practical learning experience in TypeScript fullstack development.
