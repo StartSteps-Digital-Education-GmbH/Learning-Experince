@@ -21,7 +21,7 @@ This document outlines how the course materials are developed and delivered to p
 - **Self-Paced Learning**: You can refer to README files at your own pace, revisiting complex topics or clarifying concepts as needed.
 - **Best Practices**: Including references to official documentation ensures you are exposed to industry standards and best practices, reinforcing your understanding.
 
-#### 4. Fullstack Project
+#### 4. Fullstack Project: NEW ELEMENT 	:star_struck: 	:star_struck: 	:star_struck:
 - **Integration of Concepts**: A comprehensive fullstack project serves as a capstone that demonstrates the connections between various subjects covered in the course, such as frontend development, backend services, database interactions, and API integration.
 - **Hands-On Application**: As the project is live-coded, you can see how different technologies and concepts come together in a real-world scenario, reinforcing your understanding of how each part interacts within the fullstack architecture.
 - **Student Version for Practice**: A student version of the project allows you to replicate the work done in class, encouraging you to apply what you've learned independently. This practice solidifies your skills and boosts confidence.
